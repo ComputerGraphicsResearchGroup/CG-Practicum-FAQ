@@ -5,4 +5,4 @@ Course [Computer Graphics: Project (B-KUL-H07Z5A)](https://onderwijsaanbod.kuleu
 **Academic Years**: 2014-2018 (2nd semester - 1st/2nd Master of Science in Engineering: Computer Science)
 
 ## About
-Frequently asked questions about "Computer Graphics: Project".
+[Frequently asked questions](FAQ.md) about "Computer Graphics: Project".
