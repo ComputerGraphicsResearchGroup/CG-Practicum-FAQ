@@ -1,4 +1,4 @@
-# [CGPracticum-FAQ](http://graphics.cs.kuleuven.be/courses/H07Z5a/opgave.html)
+# [CG-Practicum-FAQ](http://graphics.cs.kuleuven.be/courses/H07Z5a/opgave.html)
 
 Course [Computer Graphics: Project (B-KUL-H07Z5A)](https://onderwijsaanbod.kuleuven.be/syllabi/n/H07Z5AN.htm#activetab=doelstellingen_idp1405792)
 
